@@ -14,3 +14,7 @@
 | Data Augmentation CNN    | 37.90                | 41.39                     | 10              |
 | VGG16                    | 58.08                | 57.01                     | 5               |
 | ResNet50 (Early Stopped) | 63.50                | 63.01                     | 35              |
+
+
+[My Kaggle project page](https://www.kaggle.com/code/hashmib/emotion-detection-cnn-vgg16-resnet50)
+
